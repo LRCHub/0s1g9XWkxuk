@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "檸檬とレモン",
+  "base_artist": "STU48",
+  "createdAt": "2026-03-11T07:07:24.360073Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "檸檬とレモン",
+      "artist": "STU48",
+      "has_synced": false,
+      "path": "select/pl_01_檸檬とレモン_STU48.txt"
+    }
+  ]
+}
